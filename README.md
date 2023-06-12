@@ -57,7 +57,7 @@ $~~~~$
 
 
 
-| Raspberry PI 3 x2 with camera| TPLink| DJI-VR
+| Raspberry PI 3 x2 with camera| TPLink x2| DJI-VR
 |:----:|:----:| :----:|
 |![](./pic/Raspberry-Pi-3-with-camera-module.png)|![](./pic/giant_218539.jpg)| ![](./pic/dji-goggles-vr-brille-fast-neu.jpg)|
 
