@@ -1,4 +1,4 @@
-<p style="text-align: center; font-size:3em; "><b>Newspace final project Weather Balloon</b></p>
+# Newspace final project Weather Balloon
 
 &nbsp;
 ![](./pic/P1040569-1024x682.jpg)
@@ -30,7 +30,7 @@ In brief, the project's goal is to create a high-altitude weather balloon system
 $~~~~$
 
 ----
-<p style="text-align: center; font-size:2.5em; "><b>Open sources being used</b></p>
+# Open sources being used
 
 
 | Open-HD   |
@@ -53,7 +53,7 @@ $~~~~$
 &nbsp;
 
 ----
-<p style="text-align: center; font-size:2.5em; line-height:200%"><b>Hardware</b></p>
+# Hardware
 
 
 
@@ -62,7 +62,7 @@ $~~~~$
 |![](./pic/Raspberry-Pi-3-with-camera-module.png)|![](./pic/giant_218539.jpg)| ![](./pic/dji-goggles-vr-brille-fast-neu.jpg)|
 
 &nbsp;
-<p style="text-align: center; font-size:1.3em;"> Raspberry PI 3 description</p>
+##  Raspberry PI 3 description
 
 ![](./pic/Raspberry_Pi_3_Large.jpg)
 
